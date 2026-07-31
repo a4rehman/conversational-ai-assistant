@@ -1,0 +1,22 @@
+﻿# Python / General ignores
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+*.env
+.idea/
+.vscode/
+*.log
+*.sqlite3
+dist/
+build/
+node_modules/
+.DS_Store
